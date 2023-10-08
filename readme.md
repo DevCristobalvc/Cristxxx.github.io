@@ -12,4 +12,4 @@ manera mas rapida y eficiente haciendo uso de estas nuevas
 
 tecnologias que surguen con el pasar de los años.
 
-DISEÑADOR y Desarrollador Web : Giancarlos Renzo
+DISEÑADOR y Desarrollador Web : Cristobal vc & Giancarlos Renzo
